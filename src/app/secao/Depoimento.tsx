@@ -37,8 +37,8 @@ const Depoimento = () => {
             <FaStar className="text-yellow-600" />
             <FaStar className="text-yellow-600" />
            </div>
-            <p className="italic text-sm "> "Contratamos para o aniversário da minha filha e foi um sucesso absoluto.
-                 A organização, o buffet, a música... tudo perfeito. Recomendo de olhos fechados!" </p>
+            <p className="italic text-sm "> &ldquo;Contratamos para o aniversário da minha filha e foi um sucesso absoluto.
+                 A organização, o buffet, a música... tudo perfeito. Recomendo de olhos fechados!&rdquo;</p>
             <h2
  className={`font-bold  ${alegreya.className} text-2xl`}
             >Carlos Eduardo </h2>    
@@ -53,9 +53,9 @@ const Depoimento = () => {
             <FaStar className="text-yellow-600" />
             <FaStar className="text-yellow-600" />
            </div>
-            <p className="italic text-sm "> "Profissionalismo define. 
+            <p className="italic text-sm "> &ldquo;Profissionalismo define. 
                 Nosso evento de final de ano da empresa foi elogiado por todos os colaboradores.
-                 A transparência no orçamento foi um diferencial importante." </p>
+                 A transparência no orçamento foi um diferencial importante.&rdquo; </p>
             <h2
              className={`font-bold  ${alegreya.className} text-2xl`}
             >Fernanda Oliveira </h2>    
