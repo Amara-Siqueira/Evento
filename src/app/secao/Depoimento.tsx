@@ -20,9 +20,9 @@ const Depoimento = () => {
             <FaStar className="text-yellow-600" />
             <FaStar className="text-yellow-600" />
            </div>
-            <p className="italic text-sm ">"A Aura Eventos superou todas as nossas expectativas. 
+            <p className="italic text-sm "> &ldquo;A Aura Eventos superou todas as nossas expectativas. 
                 A decoração estava impecável e a equipe foi extremamente atenciosa do início ao fim. 
-                Foi o dia mais feliz das nossas vidas!"</p>
+                Foi o dia mais feliz das nossas vidas!&rdquo;</p>
             <h2
             className={`font-bold  ${alegreya.className} text-2xl`}
             > Mariana Silva</h2>    
